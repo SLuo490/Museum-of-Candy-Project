@@ -1,3 +1,3 @@
 # Museum-of-Candy-Project
 
-A simple webpage with HTML/CSS and Bootstrap
+A simple responsibe webpage with HTML/CSS and Bootstrap
