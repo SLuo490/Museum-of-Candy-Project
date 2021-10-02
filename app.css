@@ -13,9 +13,13 @@ body {
   color: #f498b8;
   font-weight: 100;
   font-size:1.125rem;
-  spac
+  line-height: 2;
 }
 
+.content {
+  margin-top: 100px;
+  /* margin-bottom: 100px; */
+}
 
 /* color nav bar */
 #mainNav .navbar-brand {
